@@ -7,5 +7,12 @@ Microsoft Certified Fabric Data Engineer Associate (DP-700) Exam Study Resources
 - [Fabric Community](https://community.fabric.microsoft.com/)
 - [Fabric Promotion blog](https://techcommunity.microsoft.com/blog/microsoftlearnblog/prove-your-in-demand-data-engineering-skills-and-champion-ai-innovation/4240414)
 
+
 ## GitHub Repos
 [ShbWatson's Exam Prep](https://github.com/ShbWatson/Exam-DP-700-Implementing-Data-Engineering-Solutions-Using-Microsoft-Fabric)
+
+
+## Skills at a glance
+- Implement and manage an analytics solution (30–35%)
+- Ingest and transform data (30–35%)
+- Monitor and optimize an analytics solution (30–35%)
