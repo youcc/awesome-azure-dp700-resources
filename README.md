@@ -1,2 +1,5 @@
 # Awesome DP-700 Resources
 Microsoft Certified Fabric Data Engineer Associate (DP-700) Exam Study Resources
+
+- [Official DP-700 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-700?wt.mc_id=certsustainedmkt_portfolioupdate_blog_wwl)
+- [Self-paced Training](https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/?practice-assessment-type=certification#two-ways-to-prepare?wt.mc_id=certsustainedmkt_portfolioupdate_blog_wwl)
